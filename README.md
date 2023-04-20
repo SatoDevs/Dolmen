@@ -1,23 +1,30 @@
 # Dolmen
 A 2D Monogame game engine
 
-Features:
+FEATURES:
+
+ - Map Editor
+ - Asset Management
  - Game states
- - Debug screen
+ - Camera
+ - Debug display
  - Runtime Console
- - Resource Management
- - Input handling
+ - Mouse & Keyboard Input handling
  - Serialization
- - Tilemaps
+ - Basic networking (telemetry or score)
+ - Config file
 
+ GRAPHICAL:
  - Particle Effects
- - Shaders
+ - Shaders and Post Processing
  - Procedural Animations
- - UI
-
-
+ - UI Library
 
 TODO:
- * Physics Engine
+ * 2D Physics Engine
  * Quadtree
- * AI
+ * Pathfinding
+ * Moding support
+ * Cutscenes
+ * XBox Controller Support
+ * Multi language support
